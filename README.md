@@ -2,7 +2,7 @@
 
 Information Systems student at **Universitas Multimedia Nusantara** focused on **data science, machine learning, deep learning and business intelligence**. I like turning messy business data into models and dashboards that support real decisions.
 
-**Tools I work with:** Python (pandas, scikit-learn, XGBoost, LightGBM, TensorFlow/Keras, Streamlit) · SQL (SQL Server, MySQL) · Tableau · Power BI · SAS Viya · Pentaho Data Integration · C# / .NET
+**Tools I work with:** Python (pandas, scikit-learn, XGBoost, LightGBM, TensorFlow/Keras, Streamlit) · SQL (SQL Server, MySQL) · Tableau · Power BI · SAS Viya · Pentaho Data Integration · C# / .NET · All Microsoft Office
 
 ---
 
